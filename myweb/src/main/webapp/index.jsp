@@ -10,7 +10,7 @@
 <% 
 int a=45,b=67;
 int c=a*b;
-out.println("Hello from JSP </br>");
+out.println("Hello from JSP. Summ of "+a+" and "+b+" is ");
 out.println(a);
 %>
 </body>
